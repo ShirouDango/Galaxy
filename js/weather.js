@@ -1,4 +1,4 @@
-var json_url = "http://api.openweathermap.org/data/2.5/weather?q=Paris,fra&appid=a70d956581f575b02ad518684afb6c13";
+var json_url = "http://api.openweathermap.org/data/2.5/weather?q=Mosquera, CO,fra&appid=44ec0bc410c73d0c78fb16a098ed5439";
 var city;
 var temp_curr;
 var temp_low;
